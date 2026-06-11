@@ -1,0 +1,17 @@
+[
+  {
+    "query": "Thriller like Gone Girl with a female lead",
+    "must_include": ["thriller genre", "female protagonist"],
+    "must_not_include": ["horror", "comedy"]
+  },
+  {
+    "query": "Something like The Grand Budapest Hotel",
+    "must_include": ["stylized visuals", "ensemble cast"],
+    "must_not_include": ["action franchise"]
+  },
+  {
+    "query": "I want something like Eternal Sunshine but more uplifting",
+    "must_include": ["romance or memory theme", "lighter tone"],
+    "must_not_include": ["bleak ending"]
+  }
+]
