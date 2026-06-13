@@ -6,7 +6,7 @@ from .llm_client import stream_llm
 from .models import RecommendRequest
 from .prompts.recommend_v3 import SYSTEM
 
-app = FastAPI(title="CineMatch Q&A")
+app = FastAPI(title="FlickSage Q&A")
 pipeline = ContextPipeline(system_prompt=SYSTEM)
 
 

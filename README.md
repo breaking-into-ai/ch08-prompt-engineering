@@ -1,6 +1,6 @@
 # Chapter 8 — Prompt Engineering and Building with LLM APIs
 
-Companion code for **Breaking Into AI**, Chapter 8: the complete LLM-powered CineMatch Q&A application — versioned prompts, a retrying LLM client, a token-budgeted context pipeline, a streaming FastAPI endpoint, and an LLM-as-judge evaluation suite.
+Companion code for **Breaking Into AI**, Chapter 8: the complete LLM-powered FlickSage Q&A application — versioned prompts, a retrying LLM client, a token-budgeted context pipeline, a streaming FastAPI endpoint, and an LLM-as-judge evaluation suite.
 
 ## Setup
 ```bash
